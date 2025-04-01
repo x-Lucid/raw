@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 source /venv/main/bin/activate
 COMFYUI_DIR=${WORKSPACE}/ComfyUI
